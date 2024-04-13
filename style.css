@@ -52,7 +52,7 @@ section {
 .teams,
 .contact,
 footer {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .about .about-content,
@@ -72,7 +72,7 @@ section .title {
     font-weight: 500;
     margin-bottom: 60px;
     padding-bottom: 20px;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 section .title::before {
@@ -93,7 +93,7 @@ section .title::after {
     font-size: 20px;
     color: #6e6e6e;
     padding: 0 5px;
-    background: #fff;
+    background: #ffffff;
     transform: translateX(-50%);
 }
 
@@ -127,12 +127,12 @@ section .title::after {
 }
 
 .navbar .logo a span {
-    color: #6e6e6e;
+    color: #87df35;
     transition: all 0.3s ease;
 }
 
 .navbar.sticky .logo a span {
-    color: #fff;
+    color: #addceb;
 }
 
 .navbar .menu li {
@@ -154,7 +154,7 @@ section .title::after {
 }
 
 .navbar.sticky .menu li a:hover {
-    color: #fff;
+    color: #ffffff;
 }
 
 
